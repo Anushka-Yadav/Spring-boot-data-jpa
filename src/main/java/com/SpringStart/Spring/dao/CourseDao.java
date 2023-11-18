@@ -1,3 +1,4 @@
+//for db connection an interface is made which extends jpa repo
 package com.SpringStart.Spring.dao;
 
 import com.SpringStart.Spring.entities.Courses;
